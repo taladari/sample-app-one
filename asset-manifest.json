@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/sample-app-one/static/css/main.273dac97.chunk.css",
+    "main.js": "/sample-app-one/static/js/main.1094111d.chunk.js",
+    "main.js.map": "/sample-app-one/static/js/main.1094111d.chunk.js.map",
+    "runtime~main.js": "/sample-app-one/static/js/runtime~main.ef3a01ac.js",
+    "runtime~main.js.map": "/sample-app-one/static/js/runtime~main.ef3a01ac.js.map",
+    "static/js/2.f3ef9e25.chunk.js": "/sample-app-one/static/js/2.f3ef9e25.chunk.js",
+    "static/js/2.f3ef9e25.chunk.js.map": "/sample-app-one/static/js/2.f3ef9e25.chunk.js.map",
+    "index.html": "/sample-app-one/index.html",
+    "precache-manifest.ca06869cc73f1c576289e74cc89572a1.js": "/sample-app-one/precache-manifest.ca06869cc73f1c576289e74cc89572a1.js",
+    "service-worker.js": "/sample-app-one/service-worker.js",
+    "static/css/main.273dac97.chunk.css.map": "/sample-app-one/static/css/main.273dac97.chunk.css.map",
+    "static/media/Phone.png": "/sample-app-one/static/media/Phone.f15edcd4.png",
+    "static/media/Home.css": "/sample-app-one/static/media/backg.46a41422.png",
+    "static/media/check.svg": "/sample-app-one/static/media/check.dacb36f6.svg",
+    "static/media/close.svg": "/sample-app-one/static/media/close.9993a430.svg",
+    "static/media/data.svg": "/sample-app-one/static/media/data.cb48b193.svg",
+    "static/media/download.svg": "/sample-app-one/static/media/download.5422a688.svg",
+    "static/media/facebook.svg": "/sample-app-one/static/media/facebook.8c856a6a.svg",
+    "static/media/Features.css": "/sample-app-one/static/media/featuresbackg.9988dd02.png",
+    "static/media/firstImg.png": "/sample-app-one/static/media/firstImg.031cf91d.png",
+    "static/media/instagram.svg": "/sample-app-one/static/media/instagram.6f7f616f.svg",
+    "static/media/linkedin.svg": "/sample-app-one/static/media/linkedin.48a2133d.svg",
+    "static/media/phone2.png": "/sample-app-one/static/media/phone2.fc2578b5.png",
+    "static/media/secondImg.png": "/sample-app-one/static/media/secondImg.e475b839.png",
+    "static/media/support.svg": "/sample-app-one/static/media/support.d22abc47.svg",
+    "static/media/twitter.svg": "/sample-app-one/static/media/twitter.0729c42a.svg"
+  }
+}
