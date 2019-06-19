@@ -1,0 +1,44 @@
+#reviews {
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(to bottom right, rgb(19, 73, 160), #226BE2);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#reviews-header {
+    text-transform: uppercase;
+    margin-top: 50px;
+    font-weight: normal;
+    letter-spacing: 3px;
+}
+
+#reviews-boxes {
+    margin-top: 100px;
+    width: 90%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-around;
+}
+
+#reviews-btns {
+    display: flex;
+    justify-content: space-around;
+    width: 35px;
+    margin-top: 50px;
+}
+
+.review-btn {
+    width: 8px;
+    height: 8px;
+    background: #fff;
+    opacity: .5;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+#review-btn-center {
+    opacity: .8;
+}

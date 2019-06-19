@@ -1,0 +1,26 @@
+#footer {
+    background-color: #13253B;
+    width: 100vw;
+    height: 30vh;
+    margin: 0;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#footer-text {
+    margin: 0;
+    margin-left: 50px;
+}
+
+#footer-icons {
+    display: flex;
+    justify-content: space-between;
+    width: 20%;
+}
+
+.soc-icon {
+    cursor: pointer;
+    width: 30px;
+}

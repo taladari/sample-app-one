@@ -1,0 +1,17 @@
+#about-card {
+    box-shadow: 0px 0px 15px 1px rgba(0,0,0,0.45);
+    width: 200px;
+    margin: 20px;
+    padding: 30px;
+    text-align: center;
+}
+
+#about-card-header {
+    font-weight: normal;
+    text-transform: capitalize;
+    font-size: 1.4rem;
+}
+
+#about-card-text {
+    font-size: .8rem;
+}

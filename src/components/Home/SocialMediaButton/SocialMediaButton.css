@@ -1,0 +1,28 @@
+#social-btn {
+    height: 50px;
+    width: 120px;
+    background: #000;
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    cursor: pointer;
+    transition: all .2s linear;
+}
+
+#social-btn:hover {
+    background: rgba(0,0,0, .7);
+}
+
+#social-btn-img {
+    height: 20px;
+}
+
+#social-btn-text {
+    font-size: .8rem;
+    text-align: left;
+}
+
+#social-btn-text > span {
+    display: block;
+}

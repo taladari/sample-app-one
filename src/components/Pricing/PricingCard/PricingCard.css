@@ -1,0 +1,56 @@
+#pricing-card {
+    border: 2px solid #226BE2;
+    border-radius: 10px;
+    padding: 10px 20px;
+    transition: all .2s linear;
+}
+
+#pricing-card-plan {
+    margin: 0;
+    text-transform: capitalize;
+    font-weight: normal;
+    font-size: 1.2rem;
+}
+
+#pricing-card-price {
+    color: #226BE2;
+    font-weight: bold;
+    font-size: 1.4rem;
+    margin: 0;
+    margin-top: 10px;
+    transition: all .2s linear;
+}
+
+#pricing-card-access {
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+#pricing-card-services {
+    margin-bottom: 15px;
+}
+
+.pricing-card-service {
+    margin: 0;
+    margin-bottom: 5px;
+}
+
+#pricing-card-btn {
+    border: 1px solid #226BE2;
+    border-radius: 30px;
+    background: #eee;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    color: #226BE2;
+    cursor: pointer;
+}
+
+#pricing-card:hover {
+    background: linear-gradient(to bottom right, rgb(19, 73, 160), #226BE2);
+    color: #fff;
+    border: none;
+}
+
+#pricing-card:hover #pricing-card-price {
+    color: #fff;
+}
