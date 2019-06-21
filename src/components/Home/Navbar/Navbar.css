@@ -46,3 +46,21 @@
 #try-btn:hover {
     opacity: .9;
 }
+
+@media screen and (max-width: 1000px) {
+    #navbar {
+        width: 100%;
+    }
+
+    .nav-link {
+        margin-right: 10px;
+    }
+
+    #navbar-logo {
+        margin-right: 20px;
+    }
+
+    #try-btn {
+        margin-left: 20px;
+    }
+}

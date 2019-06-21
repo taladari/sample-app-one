@@ -32,7 +32,7 @@ const Pricing = () => {
             required preinstalled stitches way  email client, calendar, mapping program.</p>
             <div id="pricings">
                 {
-                    pricings.map((pricing, index) => <PricingCard plan={pricing.plan} price={pricing.price} isLimited={pricing.isLimited} includes={pricing.includes} /> )
+                    pricings.map((pricing, index) => <PricingCard plan={pricing.plan} price={pricing.price} isLimited={pricing.isLimited} includes={pricing.includes} key={index} /> )
                 }
             </div>
         </div>

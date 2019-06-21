@@ -32,3 +32,9 @@
 #features-phone {
     height: 300px;
 }
+
+@media screen and (max-width: 1000px) {
+    #features-content {
+        width: 100%;
+    }
+}
